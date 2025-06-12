@@ -1,4 +1,4 @@
-## óla! me chamo jonas eustaquio 
+## óla! eu sou jonas eustaquio 
 
 - 🔭 sou Desenvolvedor front-end
 - 🌱 Estudando as tecnologia de programação
